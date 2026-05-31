@@ -4,7 +4,6 @@
 
 ### Reverse Android · Frida Hooking · Firebase Authentication · Flag Extraction
 
-<img src="screenshots/frida_password_recovered.png" width="850"/>
 
 <br>
 
