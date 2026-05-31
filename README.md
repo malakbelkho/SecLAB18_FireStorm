@@ -4,9 +4,6 @@
 
 ### Reverse Android · Frida Hooking · Firebase Authentication · Flag Extraction
 
-
-<br>
-
 ![Android](https://img.shields.io/badge/Android-Reverse%20Engineering-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-Dynamic%20Instrumentation-red?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-Authentication-orange?style=for-the-badge&logo=firebase&logoColor=white)
